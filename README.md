@@ -1,0 +1,3 @@
+# Arabiansnight
+
+I discovered my interest in recent innovation in data science and machine learning while collaborating on a side project with the Department of Digital Humanities at the University of Maryland. I pursued my passion and conducted research to develop an innovative natural language processing algorithm to quantify the influence of Persian and Arabian cultures on a famous tale. I implemented neural language model (Word2vec) to find similarities between two cultures and underlying sentiment of the text. To enhance my knowledge of data science and learn new, cutting-edge skills, I applied and was admitted to The Data Incubator (TDI). 
